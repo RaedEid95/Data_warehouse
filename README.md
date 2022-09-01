@@ -18,3 +18,8 @@
     -Create the Fact and Dimensionals tables.
     -Build ETL sql2sql to fill the tables.
     -Build a cube and compare the performance with the query from the OLTP system.
+
+
+## UML-Digram
+    
+    ![UML](UML-Star_schema.png)

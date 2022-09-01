@@ -22,4 +22,4 @@
 
 ## UML-Digram
     
-    ![UML](UML-Star_schema.png)
+![UML](UML-Star_schema.png)

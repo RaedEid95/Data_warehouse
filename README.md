@@ -1,7 +1,7 @@
 ## Introduction 
 
 
-    -Databased called Pagila build upon (OLTP) system contain data about the films with multi tables(stores, revenues,...).
+    -Database called Pagila build upon (OLTP) system contain data about the films with multi tables(stores, revenues,...).
     -The customer wants to convert this OLTP system to an OLAP system for analysis purposes.
 
 ## Objective of OLAP system 
